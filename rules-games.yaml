@@ -1162,3 +1162,16 @@ payload:
   - DOMAIN-SUFFIX,mail.nhanqua--garena.com
   - DOMAIN-SUFFIX,quatangtrian24hgarena.com
   - DOMAIN-SUFFIX,www.quatangtrian24hgarena.com
+
+  # AKAMAIZED
+  
+  - DOMAIN-SUFFIX,Telkomsel.akamaized.com
+  - DOMAIN-SUFFIX,cdn-bahaso.akamaized.com
+  - DOMAIN-SUFFIX,file-igamecj.akamaized.com
+  - DOMAIN-SUFFIX,filecdn-igamecj.akamaized.com
+  - DOMAIN-SUFFIX,gov.akamaized.com
+  - DOMAIN-SUFFIX,igamecj.akamaized.com
+  - DOMAIN-SUFFIX,file-cdn.igamej.akamaized.com
+  - DOMAIN-SUFFIX,ihago.akamaized.com
+  - DOMAIN-SUFFIX,prod-api.akamaized.com
+  - DOMAIN-SUFFIX,pubgm.akamaized.com
