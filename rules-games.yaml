@@ -1,5 +1,6 @@
 payload:
 
+  # MOBILE LEGENDS
   - DOMAIN-SUFFIX,www.mobilelegends.com
   - DOMAIN-SUFFIX,applink.mobilelegends.com
   - DOMAIN-SUFFIX,assistant.mobilelegends.com
@@ -26,3 +27,14 @@ payload:
   - DOMAIN-SUFFIX,static.mobilelegends.com
   - DOMAIN-SUFFIX,web.mobilelegends.com
   - DOMAIN-SUFFIX,worlds.mobilelegends.com
+
+  # PUBG
+  
+  - DOMAIN-SUFFIX,www.pubgmobile.com
+  - DOMAIN-SUFFIX,clubopen.pubgmobile.com
+  - DOMAIN-SUFFIX,beta.clubopen.pubgmobile.com
+  - DOMAIN-SUFFIX,eu.creatorhub.pubgmobile.com
+  - DOMAIN-SUFFIX,ru.creatorhub.pubgmobile.com
+  - DOMAIN-SUFFIX,sg.creatorhub.pubgmobile.com
+  - DOMAIN-SUFFIX,us.creatorhub.pubgmobile.com
+  - DOMAIN-SUFFIX,esports.pubgmobile.com
